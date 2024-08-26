@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e4fbbfb.css",
+    "main.js": "/static/js/main.38bfe01b.js",
+    "static/js/453.d855a71b.chunk.js": "/static/js/453.d855a71b.chunk.js",
+    "static/media/food3.jpg": "/static/media/food3.d55c0df808a6825bb79d.jpg",
+    "static/media/food5.jpg": "/static/media/food5.282cb6e0e76d119bbaea.jpg",
+    "static/media/food1.jpg": "/static/media/food1.113497d928c83b608529.jpg",
+    "static/media/food2.jpg": "/static/media/food2.746f1865cbce84d31f31.jpg",
+    "static/media/Resume.jpg": "/static/media/Resume.9935782ec55328b12444.jpg",
+    "static/media/food4.jpg": "/static/media/food4.1dd79a15ab7442ce84d2.jpg",
+    "static/media/food6.jpg": "/static/media/food6.7e456b30f0ca99e123bc.jpg",
+    "static/media/Image1.jpg": "/static/media/Image1.e35ab1d5351cf4cb05ea.jpg",
+    "static/media/food7.jpg": "/static/media/food7.699a8495c52e261ce604.jpg",
+    "static/media/chat8.jpeg": "/static/media/chat8.84adf9f9af21c22e6487.jpeg",
+    "static/media/chat7.jpeg": "/static/media/chat7.62255d7ecb4c2938123b.jpeg",
+    "static/media/chat1.jpeg": "/static/media/chat1.e85950e197088fdf19c8.jpeg",
+    "static/media/Image2.jpg": "/static/media/Image2.39103732e4ec2db79214.jpg",
+    "static/media/chat6.jpeg": "/static/media/chat6.26f97003e29becb9385d.jpeg",
+    "static/media/chat3.jpeg": "/static/media/chat3.ca4fab5101714894f6da.jpeg",
+    "static/media/chat2.jpeg": "/static/media/chat2.53a078c5a22377a77f02.jpeg",
+    "static/media/chat5.jpeg": "/static/media/chat5.48d79028ddad1ec14192.jpeg",
+    "static/media/chat4.jpeg": "/static/media/chat4.1df0e97c6473d4cc7d6e.jpeg",
+    "static/media/contact.jpg": "/static/media/contact.180c79032b6231a90398.jpg",
+    "index.html": "/index.html",
+    "main.2e4fbbfb.css.map": "/static/css/main.2e4fbbfb.css.map",
+    "main.38bfe01b.js.map": "/static/js/main.38bfe01b.js.map",
+    "453.d855a71b.chunk.js.map": "/static/js/453.d855a71b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e4fbbfb.css",
+    "static/js/main.38bfe01b.js"
+  ]
+}
